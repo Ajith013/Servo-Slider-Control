@@ -10,3 +10,5 @@ For Servo Slider Control
 Select the respective application ( 64 , 32)
 (.exe aplication for windows)
 
+![screencapture](https://user-images.githubusercontent.com/38262782/52490195-049dd300-2b79-11e9-80ba-f8c8f29ec958.PNG)
+
