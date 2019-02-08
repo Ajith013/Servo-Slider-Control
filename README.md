@@ -8,4 +8,5 @@ Upload it to the controller
 
 For Servo Slider Control
 Select the respective application ( 64 , 32)
-.exe aplication for windows
+(.exe aplication for windows)
+
